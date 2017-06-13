@@ -14,7 +14,7 @@ import java.util.List;
  * Class Description goes here.
  *
  * @author gstripe@gmail.com
- * @date 2017-06-2017-06-12 16:18
+ * @date 2017-06-12 16:18
  */
 @Service
 public class UserService {

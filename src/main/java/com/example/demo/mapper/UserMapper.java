@@ -11,7 +11,7 @@ import java.util.List;
  *
  * mybatis 的 mapper是不支持重载的
  * @author gstripe@gmail.com
- * @date 2017-06-2017-06-12 10:28
+ * @date 2017-06-12 10:28
  */
 @Mapper
 public interface UserMapper {

@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
  * Hello Demo.
  *
  * @author gstripe@gmail.com
- * @date 2017-06-2017-06-06 11:10
+ * @date 2017-06-06 11:10
  */
 @RestController
 public class HelloController {

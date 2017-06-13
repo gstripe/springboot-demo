@@ -16,7 +16,7 @@ import java.util.List;
  *
  *
  * @author gstripe@gmail.com
- * @date 2017-06-2017-06-07 10:44
+ * @date 2017-06-07 10:44
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest

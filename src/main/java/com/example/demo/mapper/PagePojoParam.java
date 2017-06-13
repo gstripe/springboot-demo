@@ -4,7 +4,7 @@ package com.example.demo.mapper;
  * Class Description goes here.
  *
  * @author gstripe@gmail.com
- * @date 2017-06-2017-06-12 14:04
+ * @date 2017-06-12 14:04
  */
 public class PagePojoParam {
     private Integer pageNum;

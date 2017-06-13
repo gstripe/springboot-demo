@@ -16,7 +16,7 @@ import static org.junit.Assert.*;
  * Class Description goes here.
  *
  * @author gstripe@gmail.com
- * @date 2017-06-2017-06-07 13:58
+ * @date 2017-06-07 13:58
  */
 
 @RunWith(SpringRunner.class)

@@ -13,7 +13,7 @@ import org.springframework.data.repository.query.QueryByExampleExecutor;
  * 3. 对字符串 开始 包含 结束 正则表达式匹配 和 其他属性类型的精确匹配
  *
  * @author gstripe@gmail.com
- * @date 2017-06-2017-06-07 13:57
+ * @date 2017-06-07 13:57
  */
 public interface UserQueryByExampleExecutor extends Repository<User, Integer>, QueryByExampleExecutor<User> {
 }

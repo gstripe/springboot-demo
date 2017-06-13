@@ -7,7 +7,7 @@ import java.sql.Timestamp;
  * Class Description goes here.
  *
  * @author gstripe@gmail.com
- * @date 2017-06-2017-06-06 15:17
+ * @date 2017-06-06 15:17
  */
 @Entity
 @Table(name = "t_order", schema = "demo", catalog = "")

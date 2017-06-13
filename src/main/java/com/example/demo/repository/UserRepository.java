@@ -12,7 +12,7 @@ import java.util.List;
  * {@link Repository} 示例
  *
  * @author gstripe@gmail.com
- * @date 2017-06-2017-06-07 14:29
+ * @date 2017-06-07 14:29
  */
 public interface UserRepository extends Repository<User, Integer> {
 

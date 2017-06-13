@@ -22,7 +22,7 @@ import java.util.List;
  * Class Description goes here.
  *
  * @author gstripe@gmail.com
- * @date 2017-06-2017-06-06 15:28
+ * @date 2017-06-06 15:28
  */
 @RunWith(SpringRunner.class)
 @SpringBootTest
